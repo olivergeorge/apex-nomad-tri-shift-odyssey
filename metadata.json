@@ -1,0 +1,6 @@
+{
+  "name": "Apex Nomad: Tri-Shift Odyssey",
+  "description": "3D open-world physics sandbox where your off-road motorbike transforms into a jet plane and deep-sea submarine with rocket boosters to explore endless desert highways and a lost underwater city.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
